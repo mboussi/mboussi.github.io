@@ -1,5 +1,5 @@
 :root {
-  --color-blue: #00a6e3;
+  --color-blue: #0f536b;
   --color-lilac: #e8e8e8;
   --color-electric-blue: #0096db;
   --color-concord: #7d7d7d;
@@ -9,7 +9,7 @@
   --color-golden-yellow: #ffde00;
   --color-black: #000;
   --color-black-90: #1a1a1a;
-  --color-black-80: #333;
+  --color-black-80: rgb(51, 51, 51);
   --color-black-70: #4d4d4d;
   --color-black-60: #666;
   --color-black-50: #808080;
